@@ -1,1 +1,1 @@
-Basin chat server using HTTP for learning purposes only..
+Basin chat server using Event Emitter for learning purposes only..
